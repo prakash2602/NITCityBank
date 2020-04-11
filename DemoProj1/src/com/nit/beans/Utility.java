@@ -12,5 +12,8 @@ public class Utility {
 		System.out.println("utility m1() method:12364");
 		System.out.println("yufyuegy");
 	}
+	public void m2() {
+		System.out.println("Utility.m2()");
+	}
 
 }
